@@ -9,3 +9,9 @@ Air Force Veteran turned stay at home mom now pursuing Web Design.
 </ul>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChachaSmalls)](https://github.com/anuraghazra/github-readme-stats)
+dark: {
+    title_color: "fff",
+    icon_color: "79ff97",
+    text_color: "9f9f9f",
+    bg_color: "151515",
+  },
