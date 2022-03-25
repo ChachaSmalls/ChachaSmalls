@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Emilia (Chacha) from Texas
+I'm Emilia (Chacha) from Texas.<br>
 Air Force Veteran turned stay at home mom now pursuing Web Design.
 <ul>
   <li>🌱 I’m currently learning JS, HTML and CSS. 100Devs</li>
