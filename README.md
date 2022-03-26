@@ -7,7 +7,7 @@ Air Force Veteran turned stay at home mom now pursuing Web Design.
   <li>⚡ Fun fact: I used to teach ballroom dancing.</li>
   <li>📫 How to reach me <a href="https://twitter.com/ChachaSmalls22">Twitter</a> or <a href="https://www.linkedin.com/in/emilia-menchaca-6a6902232/">LinkedIn</a></li>
 </ul>
-<p><img align="centered" src="https://github.com/ChachaSmalls/ChachaSmalls/blob/main/giphy.gif" width="500" height="320" /></p>
+<p><img align="center" src="https://github.com/ChachaSmalls/ChachaSmalls/blob/main/giphy.gif" width="500" height="320" /></p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChachaSmalls&theme=tokyonight)
 
