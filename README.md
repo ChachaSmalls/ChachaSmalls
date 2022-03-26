@@ -8,7 +8,8 @@ Air Force Veteran turned stay at home mom now pursuing Web Design.
   <li>📫 How to reach me <a href="https://twitter.com/ChachaSmalls22">Twitter</a> or <a href="https://www.linkedin.com/in/emilia-menchaca-6a6902232/">LinkedIn</a></li>
 </ul>
 <p><img align="right" src="https://github.com/ChachaSmalls/ChachaSmalls/blob/main/giphy.gif" width="400" height="320" /></p>
-
+<br>
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChachaSmalls&theme=tokyonight)
 
 
