@@ -9,4 +9,6 @@ Air Force Veteran turned stay at home mom now pursuing Web Design.
 </ul>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChachaSmalls&theme=tokyonight)
-<iframe src="https://giphy.com/embed/vadyPNn86EcuahO053" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coffee-books-raining-vadyPNn86EcuahO053">via GIPHY</a></p>
+
+
+
