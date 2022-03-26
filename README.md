@@ -10,7 +10,5 @@ Air Force Veteran turned stay at home mom now pursuing Web Design.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChachaSmalls&theme=tokyonight)
 
-<br>
 
-<iframe src="https://giphy.com/embed/BbCXN7JYlhvzKZInxH" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BbCXN7JYlhvzKZInxH">via GIPHY</a></p>
 
