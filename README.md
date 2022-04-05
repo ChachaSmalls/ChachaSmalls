@@ -9,7 +9,6 @@ Air Force Veteran turned stay at home mom now pursuing Web Design.
 </ul>
 <p><img align="left" src="https://github.com/ChachaSmalls/ChachaSmalls/blob/main/giphy.gif" width="400" height="320" /></p>
 <br>
-<br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChachaSmalls&theme=tokyonight)
 
